@@ -1,6 +1,6 @@
 # Awesome Cloud
 
-> A curated list of delightful cloud solutions: [Software as a Service (SaaS)](#software-as-a-service), [Platform as a Service (PaaS)](#platform-as-a-service), [Infrastructure as a Service (IaaS)](#infrastructure-as-a-service).
+> A (totally incomplete) curated list of delightful cloud solutions: [Software as a Service (SaaS)](#software-as-a-service), [Platform as a Service (PaaS)](#platform-as-a-service), [Infrastructure as a Service (IaaS)](#infrastructure-as-a-service).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
