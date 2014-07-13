@@ -58,6 +58,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Platform as a Service
 
 - [Heroku](http://www.heroku.com) - A cloud application platform to run web applications written in Ruby, Node.js, Python, and Java.
+- [Engine Yard](https://www.engineyard.com)
+- [Red Hat OpenShift](https://www.openshift.com)
+- [Google App Engine](https://appengine.google.com)
+- [AppFog](https://www.appfog.com)
+- [Windows Azure Cloud Services](http://azure.microsoft.com/en-us/services/cloud-services/)
+- [Amazon Web Services (AWS)](http://aws.amazon.com)
 
 
 ## Infrastructure as a Service
